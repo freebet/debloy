@@ -1,1 +1,1 @@
-curl -L https://github.com/freebet/deploy/raw/master/deployment/deploy.bash| bash
+`curl -L https://raw.githubusercontent.com/freebet/debloy/master/deploy.bash| bash`
